@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predator-11&label=Profile%20views&color=0e75b6&style=flat" alt="predator-11" /> </p>
 
-- 🌱 I’m currently learning **Power BI, Spring, Android**
+<!-- - 🌱 I’m currently learning **** -->
 
 - 💬 Ask me about **Data preprocessing/Machine learning**
 
